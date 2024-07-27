@@ -89,7 +89,7 @@ La palabra o frase encriptada se muestra en la sección derecha y se puede conve
 <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white.svg)](jriveraambrosio:jriveraambrosio@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white.svg)](linkedin.com/in/josue-rivera-ambrosio-006b71308/oliverdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white.svg)](https://www.linkedin.com/in/josue-rivera-ambrosio-006b71308/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white.svg)](https://t.me/josueriveraambrosio)
 <hr>
 
