@@ -3,8 +3,7 @@
 ![newbanner](https://github.com/user-attachments/assets/501b4941-6f91-4720-9f86-9cd5061b279b)
 
 <div align="center">
-Hecho con ❤️ por Oliver_dev
-</div>
+Hecho por jriveraa-github
 <br>  
 
 <div align="center">
